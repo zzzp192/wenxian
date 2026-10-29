@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# Literature downloads (PDF files)
+*.pdf
+*.pdf.part
+*.part
+downloads/
+
+# Excel spreadsheets and project data lists
+*.xlsx
+*.xls
+*.csv
+~$*
+
+# Temporary and cache files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Test and run outputs
+.pytest_cache/
